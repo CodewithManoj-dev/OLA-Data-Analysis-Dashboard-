@@ -19,8 +19,6 @@ Customer Experience Optimization: Insights into average customer ratings by vehi
 
 Revenue Growth Opportunities: Analyzing revenue by payment method and top customers by booking value reveals high-performing segments and preferred transaction channels, guiding marketing and loyalty strategies.
 
-Fleet Strategy & Planning: The top 5 vehicle types by ride distance and ride distance distribution per day inform decisions on vehicle procurement, maintenance schedules, and route planning.
-
 Quality Control & Trust Building: Comparing customer vs. driver ratings and examining driver rating distributions supports fair performance evaluation and fosters a transparent feedback culture.
 
 ### 6.	Screenshots / Demos
