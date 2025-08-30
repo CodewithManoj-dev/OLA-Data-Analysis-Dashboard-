@@ -24,5 +24,4 @@ Fleet Strategy & Planning: The top 5 vehicle types by ride distance and ride dis
 Quality Control & Trust Building: Comparing customer vs. driver ratings and examining driver rating distributions supports fair performance evaluation and fosters a transparent feedback culture.
 
 ### 6.	Screenshots / Demos
-Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
-Example: ![Dashboard Preview](https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png)
+Show what the dashboard looks like. -![Dashboard Preview](https://github.com/CodewithManoj-dev/OLA-Data-Analysis-Dashboard-/blob/main/Screenshot%20Dashboard.png)
